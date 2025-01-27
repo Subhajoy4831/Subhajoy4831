@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **AWS, Amazon EMR, and Unity game development.**
-- 💼 I’m a **Data Engineer Intern** at Deloitte SEA.
+- 💼 I’m a **Analyst** at Deloitte SEA.
 - 🎓 I hold a **B.Tech in Information Technology.**
 - 🤝 I love collaborating on **open-source projects** and building exciting applications.
 
